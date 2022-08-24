@@ -5,6 +5,7 @@ import { MiniMap } from '@antv/graphin-components';
 import { graphData } from './secret-data';
 
 //const data = Utils.mock(10).random().graphin();
+//console.log(Utils.mock(10).random().graphin())
 const data = graphData;
 
 function App() {
